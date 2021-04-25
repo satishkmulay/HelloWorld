@@ -1,3 +1,5 @@
+![headshot](Giraffe.jpg)
+
 # HelloWorld
 This is my first repository!
 
